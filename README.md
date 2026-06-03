@@ -20,6 +20,9 @@ Passionate Full Stack Developer specializing in building scalable web applicatio
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![OCPP](https://img.shields.io/badge/OCPP-EV%20Charging-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 I am a full-stack Developer with experience in developing enterprise-level applications using Node.js, Express.js, React.js, MySQL, Java, Python, and AWS.
 
