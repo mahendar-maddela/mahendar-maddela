@@ -36,8 +36,14 @@ I enjoy solving complex backend challenges and building efficient systems that d
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahendar-maddela&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendar-maddela&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username="mahendar-maddela"&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahendar-maddela)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username="mahendar-maddela"&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user="mahendar-maddela")
+
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![MQTT](https://img.shields.io/badge/MQTT-IoT-red)
