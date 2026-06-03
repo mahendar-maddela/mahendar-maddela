@@ -45,12 +45,5 @@ I specialize in:
 
 I enjoy solving complex backend challenges and building efficient systems that deliver reliable user experiences.
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahendar-maddela&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendar-maddela&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mahendar-maddela)
 
 
