@@ -1,14 +1,12 @@
 # Hi 👋, I'm Mahendar Maddela
 
-### Full Stack JavaScript Developer
+### Full Stack Developer
 
 Passionate Full Stack Developer specializing in building scalable web applications, RESTful APIs, and cloud-based solutions using JavaScript technologies.
 
 🚀 Currently working on Backend Development with Node.js & Express
 
-🌱 Exploring System Design, Microservices, and Cloud Architecture
-
-💬 Ask me about Node.js, Express.js, React.js, Next.js, Sequelize, and MySQL
+🌱 Exploring System Design, Microservices, IOT Device Communication, and Cloud Architecture
 
 📫 Reach me: mahendar@1241.com
 
