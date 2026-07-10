@@ -8,7 +8,7 @@ Passionate Full Stack Developer specializing in building scalable web applicatio
 
 🌱 Exploring System Design, Microservices, IOT Device Communication, and Cloud Architecture
 
-📫 Reach me: mahendar@1241.com
+📫 Reach me: mahendar1241@gmail.com
 
 ## 👨‍💻 About Me
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
