@@ -29,6 +29,8 @@ I specialize in:
 
 ✔ Backend API Development
 
+✔ Frontend Development
+
 ✔ Database Design & Optimization
 
 ✔ Authentication & Authorization
